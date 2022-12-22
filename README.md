@@ -1,4 +1,4 @@
-# YOLOv7_object_detect_count_blur_crop
+# YOLOv7 object detection counting blurring and croppring 
 
 Download the pretrained YOLOv7 weights or you can use your own custom trained weights, and paste it in the folder "YOLOv7-object-detect-count-blur-crop"
 Download Link: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt
@@ -7,7 +7,7 @@ Download Link: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov
 
 
 
-# If_you_want_to_change_source_file
+# If you want to change source file
 python detect_and_blur.py --weights yolov7.pt --source "your video.mp4" --blurratio 20
 
 # for specific class (person)
