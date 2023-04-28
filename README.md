@@ -1,11 +1,18 @@
 # YOLOv7 object detection counting blurring and croppring 
 
-Download the pretrained YOLOv7 weights or you can use your own custom trained weights, and paste it in the folder "YOLOv7-object-detect-count-blur-crop"
-Download Link: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt
+Download the pretrained YOLOv7 weights or you can use your own custom trained weights, and paste it in the folder "YOLOv7-object-detect-count-blur-crop" after clone the repository. 
+- [Download](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt)
+
 
 <img width="421" alt="image" src="https://user-images.githubusercontent.com/109053785/209044613-e6db91c5-1de7-475a-998e-55978ffd7f02.png">
 
+## Installation
 
+```
+git clone https://github.com/Zeeshann1/YOLOv7-object-detect-count-blur-crop.git  # clone 
+cd YOLOv7-object-detect-count-blur-crop
+pip install -r requirements.txt  # install dependencies
+```
 
 
 ## Detect & Blur Objects
