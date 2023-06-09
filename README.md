@@ -45,3 +45,8 @@ python detect_and_crop.py --weights yolov7.pt --source "your video.mp4" -classes
 ```
 !python detect_and_count.py --weights /content/yolov7/yolov7.pt --conf 0.1 --source /content/yolov7/inference/images
 ```
+
+## Reference
+- https://viso.ai/deep-learning/yolov7-guide/
+- https://www.youtube.com/watch?v=A7sc5vc_6uI
+
